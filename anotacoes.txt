@@ -11,4 +11,10 @@ git commit - adicionar ao repositorio
 -m - adicionar mensagem/comentario. Ex: git commit -m "commit inicial"
 
 git remote add origin url - para adicionar repositorio github para fazer push dos commits
- git push - mandar para o repositorio do github
+
+git push - mandar para o repositorio do github
+
+git reflog - hitórico de versões
+
+git reset --hard id - recuperar versão anterior
+
