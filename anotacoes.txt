@@ -1,0 +1,14 @@
+git init - começar repositório
+
+git status - verificar o estado do repositorio(arquivos que estão e que não estão no repositório)
+
+git add "nome_arquivo" - para adicionar arquivo para commit
+
+git add . - para adicionar todos os arquivos para adicionar arquivo para commit
+
+git commit - adicionar ao repositorio
+
+-m - adicionar mensagem/comentario. Ex: git commit -m "commit inicial"
+
+git remote add origin url - para adicionar repositorio github para fazer push dos commits
+ git push - mandar para o repositorio do github
