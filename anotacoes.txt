@@ -18,3 +18,6 @@ git reflog - hitórico de versões
 
 git reset --hard id - recuperar versão anterior
 
+git branch nome - criar branch
+
+git chekout nomeDaBranch - mudar de branch
