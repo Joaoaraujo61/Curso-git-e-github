@@ -1,5 +1,7 @@
 git init - começar repositório
 
+git clone linkRepositorio - clonar repositorio do github
+
 git status - verificar o estado do repositorio(arquivos que estão e que não estão no repositório)
 
 git add "nome_arquivo" - para adicionar arquivo para commit
