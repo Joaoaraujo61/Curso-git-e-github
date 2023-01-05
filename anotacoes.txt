@@ -21,3 +21,9 @@ git reset --hard id - recuperar versão anterior
 git branch nome - criar branch
 
 git chekout nomeDaBranch - mudar de branch
+
+git merge nomeDaBranch - pushar as alterações feitas na outra branch
+
+git pull - atualizar branch local 
+
+touch .gitignore - criar arquivo gitignore
